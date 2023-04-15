@@ -13,4 +13,15 @@ Requires FFMPEG to be installed on your system you can do this by running in ter
 ```sudo apt-get install ffmpeg``` 
 
 
-
+General bot commands:
+```
+-help : displays all the available commands
+-p <song> : finds the song on youtube and plays it in your current channel. 
+-q : displays the current music queue
+-skip : make bot skip
+-clear : make bot clear queue
+-leave : make bot leave
+-pause : make bot pause
+-resume : make bot resume
+-remove <index>: remove specified song from queue
+```
