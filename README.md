@@ -1,4 +1,4 @@
-# lunger-bot Discord Music Bot
+# lunger-bot: Discord Music Bot
 
 A simple personal Discord server music bot built on Python.
 
