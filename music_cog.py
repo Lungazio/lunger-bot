@@ -6,7 +6,7 @@ from yt_dlp import YoutubeDL
 import asyncio
 
 
-discord.opus.load_opus('/opt/homebrew/lib/libopus.dylib')
+discord.opus.load_opus('/usr/lib/x86_64-linux-gnu/libopus.so')
 
 class music_cog(commands.Cog):
     def __init__(self, bot):
