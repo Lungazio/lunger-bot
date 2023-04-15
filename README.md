@@ -1,6 +1,6 @@
-# lunger-bot 
+# lunger-bot Discord Music Bot
 
-A simple personal discord server music bot built on Python.
+A simple personal Discord server music bot built on Python.
 
 Plays audio from youtube search
 
